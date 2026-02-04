@@ -1,4 +1,3 @@
-We never had a prime because we're constantly evolving
 <!--
 <pre><span style="color:#00FF66;">
  █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗
