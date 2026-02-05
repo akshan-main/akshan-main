@@ -1,13 +1,1 @@
-<pre><span style="color:#00FF66;">
- █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗
-██╔══██╗██║ ██╔╝██╔════╝██║  ██║██╔══██╗████╗  ██║
-███████║█████╔╝ ███████╗███████║███████║██╔██╗ ██║
-██╔══██║██╔═██╗ ╚════██║██╔══██║██╔══██║██║╚██╗██║
-██║  ██║██║  ██╗███████║██║  ██║██║  ██║██║ ╚████║
-</span>
-
-<span style="color:#00FF66;">akshan@github</span>:<span style="color:#FF5FD2;">~/projects</span>$ <span style="color:#D1D5DB;">ls</span>
-
-
-<a href="https://github.com/YOU/tuple" style="color:#38BDF8;">https://github.com/akshan-main</a>
-</pre>
+<img src="./docs/terminal_block%20(1).jpg" alt="header"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/akshan-main/peakperformance">here</a>
