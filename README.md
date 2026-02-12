@@ -6,4 +6,4 @@ If you want terminal-like customized images like below for your readme <a href="
 this readme will be populated with more projects soon
 
 this is what real agency looks like 
-<img src="https://www.worldbuilders.ai/p/prometheus-steals-fire-from-the-gods" alt="header">
+<img src="./docs/prometheus.jpeg" alt="header">
