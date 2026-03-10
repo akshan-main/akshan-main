@@ -11,3 +11,5 @@ this readme will be populated with more projects soon
 this is what real agency looks like 
 <img src="./docs/prometheus.jpeg" alt="header">
 -->
+![](https://komarev.com/ghpvc/?username=akshan-main&label=Profile+Views&color=blue&style=flat-square)
+![](https://api.visitorbadge.io/api/VisitorHit?user=akshan-main&repo=akshan-main&label=VISITORS&countColor=%23007ec6)
