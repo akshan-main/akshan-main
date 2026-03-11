@@ -13,3 +13,6 @@ this is what real agency looks like
 -->
 
 ![](https://komarev.com/ghpvc/?username=akshan-main&label=Profile+Views&color=yellowgreen&style=flat-square)
+
+#Recognition
+Received a 6-month free chatgpt pro plan from Openai for my open-source contributions
