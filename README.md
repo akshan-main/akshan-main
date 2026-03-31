@@ -19,7 +19,7 @@ I like working on AI because I think it takes us closer to a self-running societ
 Lately that has meant spending time on AI tooling, orchestration, review loops, and evals.
 
 Recent stuff:
-- [review-by-opp](https://github.com/akshan-main/review-by-opp) - keeps AI coding review honest by forcing findings to actually get closed.
+- [review-by-opp](https://github.com/akshan-main/review-by-opp) - keeps AI coding review honest by forcing findings to actually get closed. A claude code plugin.
 - [modular-sdxl-upscale](https://github.com/akshan-main/modular-sdxl-upscale) - modular tiled SDXL upscaling with MultiDiffusion and ControlNet Tile.
 
 
