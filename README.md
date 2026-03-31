@@ -19,9 +19,9 @@ I like working on AI because I think it takes us closer to a self-running societ
 Lately that has meant spending time on AI tooling, orchestration, review loops, and evals.
 
 Recent stuff:
-- [review-by-opp](https://github.com/akshan-main/review-by-opp) - keeps AI coding review honest by forcing findings to actually get closed. A claude code plugin.
-- [modular-sdxl-upscale](https://github.com/akshan-main/modular-sdxl-upscale) - modular tiled SDXL upscaling with MultiDiffusion and ControlNet Tile.
-
+- [review-by-opp](https://github.com/akshan-main/review-by-opp) - keeps AI coding review honest by forcing findings to actually get closed. A Claude code plugin.
+- [modular-sdxl-upscale](https://github.com/akshan-main/modular-sdxl-upscale) — tiled SDXL upscaling pipeline using Modular Diffusers, MultiDiffusion, and ControlNet Tile.
+- [agentic-air-logistics-control-plane](https://github.com/akshan-main/agentic-air-logistics-control-plane) — agent orchestration system with policy gates, evidence handling, Snowflake audit pipelines, Airflow-driven simulation flows, and full decision traceability.
 
 # OSS work:
 
