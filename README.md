@@ -13,7 +13,6 @@ this is what real agency looks like
 
 ![](https://komarev.com/ghpvc/?username=akshan-main&label=Profile+Views&color=yellowgreen&style=flat-square)
 -->
-
 I like working on AI because I think it takes us closer to a self-running society.
 
 Lately that has meant spending time on AI tooling, orchestration, review loops, and evals.
@@ -30,4 +29,6 @@ Recent stuff:
 # Recognition
 
 Received 6 months of ChatGPT Pro from OpenAI for OSS contributions to [nanoclaw](https://github.com/qwibitai/nanoclaw) through the Codex for Open Source program.
+
+** Open to interesting collaborations **
 
