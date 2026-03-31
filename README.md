@@ -17,11 +17,15 @@ this is what real agency looks like
 I like working on AI because I think it takes us closer to a self-running society.
 
 Lately that has meant spending time on AI tooling, orchestration, review loops, and evals.
-
+ <!--
 Recent stuff:
-- [review-by-opp](https://github.com/akshan-main/review-by-opp): guarded AI coding workflow with independent review and issue-level closure tracking
-- [open-source-contributions](https://github.com/akshan-main/open-source-contributions): selected fixes and reviews merged or adopted across external OSS projects
+- [review-by-opp](https://github.com/akshan-main/review-by-opp) - keeps AI coding review honest by forcing findings to actually get closed.
+- [modular-sdxl-upscale](https://github.com/akshan-main/modular-sdxl-upscale) - modular tiled SDXL upscaling with MultiDiffusion and ControlNet Tile.
+-->
+# OSS work:
+[open-source-contributions](https://github.com/akshan-main/open-source-contributions): selected fixes and reviews merged or adopted across external OSS projects
 
 # Recognition
+
 Received 6 months of ChatGPT Pro from OpenAI for OSS contributions to [nanoclaw](https://github.com/qwibitai/nanoclaw) through the Codex for Open Source program.
 
