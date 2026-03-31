@@ -17,12 +17,14 @@ this is what real agency looks like
 I like working on AI because I think it takes us closer to a self-running society.
 
 Lately that has meant spending time on AI tooling, orchestration, review loops, and evals.
- <!--
+
 Recent stuff:
 - [review-by-opp](https://github.com/akshan-main/review-by-opp) - keeps AI coding review honest by forcing findings to actually get closed.
 - [modular-sdxl-upscale](https://github.com/akshan-main/modular-sdxl-upscale) - modular tiled SDXL upscaling with MultiDiffusion and ControlNet Tile.
--->
+
+
 # OSS work:
+
 [open-source-contributions](https://github.com/akshan-main/open-source-contributions): selected fixes and reviews merged or adopted across external OSS projects
 
 # Recognition
