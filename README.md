@@ -31,5 +31,6 @@ Recent stuff:
 Received 6 months of ChatGPT Pro from OpenAI for OSS contributions to [nanoclaw](https://github.com/qwibitai/nanoclaw) through the Codex for Open Source program.
 
 <br>
+
 **Open to interesting collaborations**
 
