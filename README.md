@@ -15,7 +15,7 @@ this is what real agency looks like
 -->
 I like working on AI because I think it takes us closer to a self-running society.
 
-Lately that has meant spending time on AI tooling, orchestration, review loops, and evals.
+Lately that has meant spending time on building developer/agent-facing tooling, orchestration, review loops, and evals.
 
 Recent stuff:
 - [review-by-opp](https://github.com/akshan-main/review-by-opp) - keeps AI coding review honest by forcing findings to actually get closed. A Claude code plugin.
