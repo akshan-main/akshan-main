@@ -13,7 +13,7 @@ this is what real agency looks like
 
 ![](https://komarev.com/ghpvc/?username=akshan-main&label=Profile+Views&color=yellowgreen&style=flat-square)
 -->
-I like working on AI because I think it takes us closer to a self-running society.
+I like working on AI because anything that takes us closer to a self-running society is good for us.
 
 Lately that has meant spending time on building developer/agent-facing tooling, orchestration, review loops, and evals.
 
