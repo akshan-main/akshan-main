@@ -29,11 +29,12 @@ Recent stuff:
 # Recognition
 
 Codex for Open Source recipient for my OSS contributions to [nanoclaw](https://github.com/qwibitai/nanoclaw)
-<hr>
 
 # Interests
 
 Applied AI, Software Engineering, AI agents, Language Modeling, Diffusion Models, all things niche
+
+<hr>
 
 **Open to interesting collaborations**
 
