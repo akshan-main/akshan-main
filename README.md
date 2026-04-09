@@ -30,6 +30,8 @@ Recent stuff:
 
 Codex for Open Source recipient for my OSS contributions to [nanoclaw](https://github.com/qwibitai/nanoclaw)
 
+[Diffusers MVP](https://github.com/huggingface/diffusers/issues/12635)
+
 # Interests
 
 Applied AI, Software Engineering (Backend), AI agents, Language Modeling, Diffusion Models, all things niche
