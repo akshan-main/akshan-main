@@ -24,7 +24,7 @@ Recent stuff:
 
 # OSS work:
 
-[open-source-contributions](https://github.com/akshan-main/open-source-contributions): selected fixes and reviews merged or adopted across external OSS projects including Huggingface, mcp among many others
+[open-source-contributions](https://github.com/akshan-main/open-source-contributions): selected fixes and reviews merged or adopted across external OSS projects including Huggingface, MCP among many others
 
 # Recognition
 
