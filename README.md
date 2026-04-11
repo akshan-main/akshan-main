@@ -45,7 +45,7 @@ Applied AI, Software Engineering (Backend), AI agents, Language Modeling, Diffus
   </tr>
   <tr>
     <td valign="top"><strong>ML &amp; Data</strong></td>
-    <td>Python, scikit-learn, Pandas, NumPy, Polars, statsmodels, XGBoost, LightGBM, CatBoost, MySQL, PostgreSQL, Cypher</td>
+    <td>Python, scikit-learn, Pandas, NumPy, Polars, statsmodels, GBDT(XGBoost, LightGBM, CatBoost), MySQL, PostgreSQL, Cypher</td>
   </tr>
   <tr>
     <td valign="top"><strong>Systems</strong></td>
