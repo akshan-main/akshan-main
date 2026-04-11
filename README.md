@@ -49,11 +49,11 @@ Applied AI, Software Engineering (Backend), AI agents, Language Modeling, Diffus
   </tr>
   <tr>
     <td valign="top"><strong>Systems</strong></td>
-    <td>FastAPI, Node.js, AWS (S3, EC2, Bedrock, Athena, SageMaker), MLflow, SQLAlchemy, GitHub Actions, Docker, Kubernetes</td>
+    <td>FastAPI, Node.js, AWS (S3, EC2, Bedrock, Athena, SageMaker), MLflow, SQLAlchemy, GitHub Actions, Docker, Kubernetes, MLX</td>
   </tr>
   <tr>
     <td valign="top"><strong>Retreival, Agents &amp; Serving</strong></td>
-    <td>FAISS, Neo4j, LangGraph, OpenAI SDK, Claude Agent SDK, PydanticAI, Firecrawl, vLLM, KubeRay</td>
+    <td>FAISS, Neo4j, LangGraph, OpenAI SDK, Claude Agent SDK, PydanticAI, Firecrawl, vLLM, KubeRay, ONNX</td>
   </tr>
   <tr>
     <td valign="top"><strong>Languages</strong></td>
