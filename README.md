@@ -41,7 +41,7 @@ Codex for Open Source recipient for my OSS contributions to [nanoclaw](https://g
 <table>
   <tr>
     <td valign="top" width="220"><strong>Deep Learning &amp; Multimodal</strong></td>
-    <td>PyTorch, Hugging Face, Diffusers, LLM/VLM fine-tuning (SFT, LoRA/QLoRA)</td>
+    <td>PyTorch, MLX, Hugging Face, Diffusers, LLM/VLM fine-tuning (SFT, LoRA/QLoRA)</td>
   </tr>
   <tr>
     <td valign="top"><strong>ML &amp; Data</strong></td>
@@ -49,7 +49,7 @@ Codex for Open Source recipient for my OSS contributions to [nanoclaw](https://g
   </tr>
   <tr>
     <td valign="top"><strong>Systems & Deployment</strong></td>
-    <td>FastAPI, Node.js, AWS (S3, EC2, Bedrock, Athena, SageMaker), MLflow, SQLAlchemy, GitHub Actions, Docker, Kubernetes, MLX, ONNX</td>
+    <td>FastAPI, Node.js, AWS (S3, EC2, Bedrock, Athena, SageMaker), MLflow, SQLAlchemy, GitHub Actions, Docker, Kubernetes, ONNX</td>
   </tr>
   <tr>
     <td valign="top"><strong>Retreival, Agents &amp; Serving</strong></td>
