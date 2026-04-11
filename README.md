@@ -38,19 +38,19 @@ Applied AI, Software Engineering (Backend), AI agents, Language Modeling, Diffus
 
 # Tech Stack
 
-**Deep Learning & Multimodal**  
+## Deep Learning & Multimodal
 PyTorch, Hugging Face, Diffusers, LLM/VLM fine-tuning (SFT, LoRA/QLoRA)
 
-**Machine Learning & Data**  
+## Machine Learning & Data
 Python, scikit-learn, Pandas, NumPy, Polars, statsmodels, XGBoost, LightGBM, CatBoost, MySQL, PostgreSQL, Cypher
 
-**Systems & Deployment**  
+## Systems & Deployment
 FastAPI, Node.js, AWS (S3, EC2, Bedrock, Athena, SageMaker), MLflow, SQLAlchemy, GitHub Actions, Docker, Kubernetes
 
-**Retrieval, Agents & Serving**  
+## Retrieval, Agents & Serving
 FAISS, Neo4j, LangGraph, OpenAI SDK, Claude Agent SDK, PydanticAI, Firecrawl, vLLM, KubeRay
 
-**Languages**  
+## Languages
 Python, Rust, Lua
 
 <hr>
