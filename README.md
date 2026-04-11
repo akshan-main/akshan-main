@@ -38,20 +38,28 @@ Applied AI, Software Engineering (Backend), AI agents, Language Modeling, Diffus
 
 # Tech Stack
 
-### Deep Learning & Multimodal
-PyTorch, Hugging Face, Diffusers, LLM/VLM fine-tuning (SFT, LoRA/QLoRA)
-
-### Machine Learning & Data
-Python, scikit-learn, Pandas, NumPy, Polars, statsmodels, XGBoost, LightGBM, CatBoost, MySQL, PostgreSQL, Cypher
-
-### Systems & Deployment
-FastAPI, Node.js, AWS (S3, EC2, Bedrock, Athena, SageMaker), MLflow, SQLAlchemy, GitHub Actions, Docker, Kubernetes
-
-### Retrieval, Agents & Serving
-FAISS, Neo4j, LangGraph, OpenAI SDK, Claude Agent SDK, PydanticAI, Firecrawl, vLLM, KubeRay
-
-### Languages
-Python, Rust, Lua
+<table>
+  <tr>
+    <td valign="top" width="220"><strong>Deep Learning &amp; Multimodal</strong></td>
+    <td>PyTorch, Hugging Face, Diffusers, LLM/VLM fine-tuning (SFT, LoRA/QLoRA)</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>ML &amp; Data</strong></td>
+    <td>Python, scikit-learn, Pandas, NumPy, Polars, statsmodels, XGBoost, LightGBM, CatBoost, MySQL, PostgreSQL, Cypher</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Systems</strong></td>
+    <td>FastAPI, Node.js, AWS (S3, EC2, Bedrock, Athena, SageMaker), MLflow, SQLAlchemy, GitHub Actions, Docker, Kubernetes</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Retreival, Agents &amp; Serving</strong></td>
+    <td>FAISS, Neo4j, LangGraph, OpenAI SDK, Claude Agent SDK, PydanticAI, Firecrawl, vLLM, KubeRay</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Languages</strong></td>
+    <td>Python, Rust, Lua</td>
+  </tr>
+</table>
 
 <hr>
 
