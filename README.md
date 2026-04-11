@@ -38,56 +38,20 @@ Applied AI, Software Engineering (Backend), AI agents, Language Modeling, Diffus
 
 # Tech Stack
 
-### Deep Learning & Multimodal
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Diffusers-6B46C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-SFT%20%7C%20LoRA%20%7C%20QLoRA-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VLM%20Fine--Tuning-Multimodal-0F766E?style=for-the-badge" />
-</p>
+**Deep Learning & Multimodal**  
+PyTorch, Hugging Face, Diffusers, LLM/VLM fine-tuning (SFT, LoRA/QLoRA)
 
-### Machine Learning & Data
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/statsmodels-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
+**Machine Learning & Data**  
+Python, scikit-learn, Pandas, NumPy, Polars, statsmodels, XGBoost, LightGBM, CatBoost, MySQL, PostgreSQL, Cypher
 
-### Systems, Cloud & Deployment
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-S3%20%7C%20EC2%20%7C%20Bedrock%20%7C%20Athena%20%7C%20SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
+**Systems & Deployment**  
+FastAPI, Node.js, AWS (S3, EC2, Bedrock, Athena, SageMaker), MLflow, SQLAlchemy, GitHub Actions, Docker, Kubernetes
 
-### Retrieval, Agents & Serving
-<p>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypher-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI%20SDK-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Claude%20Agent%20SDK-D97706?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Firecrawl-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/vLLM-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/KubeRay-0284C7?style=for-the-badge" />
-</p>
+**Retrieval, Agents & Serving**  
+FAISS, Neo4j, LangGraph, OpenAI SDK, Claude Agent SDK, PydanticAI, Firecrawl, vLLM, KubeRay
+
+**Languages**  
+Python, Rust, Lua
 
 <hr>
 
