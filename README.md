@@ -48,7 +48,7 @@ Applied AI, Software Engineering (Backend), AI agents, Language Modeling, Diffus
     <td>Python, scikit-learn, Pandas, NumPy, Polars, statsmodels, GBDT (XGBoost, LightGBM, CatBoost), MySQL, PostgreSQL, Cypher</td>
   </tr>
   <tr>
-    <td valign="top"><strong>Systems</strong></td>
+    <td valign="top"><strong>Systems & Deployment</strong></td>
     <td>FastAPI, Node.js, AWS (S3, EC2, Bedrock, Athena, SageMaker), MLflow, SQLAlchemy, GitHub Actions, Docker, Kubernetes, MLX, ONNX</td>
   </tr>
   <tr>
