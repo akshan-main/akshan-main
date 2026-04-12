@@ -61,6 +61,9 @@ Codex for Open Source recipient for my OSS contributions to [nanoclaw](https://g
   </tr>
 </table>
 
+![Screen Recording 2026-04-12 at 2 12 35 AM](https://github.com/user-attachments/assets/6abc20bb-7526-488e-a2e9-b1f7b47e70a6)
+
+
 <hr>
 
 **Open to interesting collaborations**
