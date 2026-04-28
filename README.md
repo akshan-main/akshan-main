@@ -22,6 +22,8 @@ Recent stuff:
 - [modular-sdxl-upscale](https://github.com/akshan-main/modular-sdxl-upscale) - tiled SDXL upscaling pipeline using Modular Diffusers, MultiDiffusion, and ControlNet Tile.
 - [agentic-air-logistics-control-plane](https://github.com/akshan-main/agentic-air-logistics-control-plane) - agent orchestration system with policy gates, evidence handling, Snowflake audit pipelines, Airflow-driven simulation flows, and full decision traceability.
 
+See pinned for more projects
+
 # OSS work:
 
 [open-source-contributions](https://github.com/akshan-main/open-source-contributions): selected fixes and reviews merged or adopted across external OSS projects including Huggingface, MCP among many others
