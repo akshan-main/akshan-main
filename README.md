@@ -15,7 +15,7 @@ this is what real agency looks like
 -->
 I like working on AI because anything that takes us closer to a self-running society is good for us.
 
-Lately that has meant spending time on building developer/agent-facing tooling, orchestration, review loops, and evals.
+Lately that has meant spending time on building developer/agent-facing tooling, orchestration, review loops, and evals. Generally, I am comfortable across RAG, Agents, Developer Tools, and Multimodal Systems.
 
 Recent stuff:
 - [review-by-opp](https://github.com/akshan-main/review-by-opp) - keeps AI coding review honest by forcing findings to actually get closed. A Claude code plugin. (Made this about a month before codex team came up with this)
