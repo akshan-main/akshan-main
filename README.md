@@ -36,7 +36,7 @@ Codex for Open Source recipient for my OSS contributions to [nanoclaw](https://g
 
 # Interests
 
-**Applied AI, Software Engineering (Backend), AI agents, Language Modeling, Diffusion Modelse**
+**Applied AI, Software Engineering (Backend), AI agents, Language Modeling, Diffusion Models**
 
 # Tech Stack
 
