@@ -51,7 +51,7 @@ Codex for Open Source recipient for my OSS contributions to [nanoclaw](https://g
   </tr>
   <tr>
     <td valign="top"><strong>Systems & Deployment</strong></td>
-    <td>FastAPI, Node.js, AWS, MLflow, SQLAlchemy, GitHub Actions, Docker, Kubernetes, ONNX</td>
+    <td>FastAPI, Node.js, AWS, MLflow, SQLAlchemy, GitHub Actions, Docker, Kubernetes, ONNX, FSDP</td>
   </tr>
   <tr>
     <td valign="top"><strong>Retreival, Agents &amp; Serving</strong></td>
