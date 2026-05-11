@@ -18,7 +18,7 @@ I like working on AI because anything that takes us closer to a self-running soc
 Lately that has meant spending time on building developer/agent-facing tooling, orchestration, review loops, and evals. Generally, I am comfortable across RAG, Agents, Developer Tools, and Multimodal Systems.
 
 Recent stuff:
-- [review-by-opp](https://github.com/akshan-main/review-by-opp) - keeps AI coding review honest by forcing findings to actually get closed. A Claude code plugin. (Made this about a month before codex team came up with this)
+- [review-by-opp](https://github.com/akshan-main/review-by-opp) - keeps AI coding review honest by forcing findings to actually get closed. A Claude code plugin. (Made this about a month before codex came up with the same)
 - [modular-sdxl-upscale](https://github.com/akshan-main/modular-sdxl-upscale) - tiled SDXL upscaling pipeline using Modular Diffusers, MultiDiffusion, and ControlNet Tile.
 
 
