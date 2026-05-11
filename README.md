@@ -47,7 +47,7 @@ Codex for Open Source recipient for my OSS contributions to [nanoclaw](https://g
   </tr>
   <tr>
     <td valign="top"><strong>ML &amp; Data</strong></td>
-    <td>Python, scikit-learn, Pandas, NumPy, Polars, statsmodels, GBDT (XGBoost, LightGBM, CatBoost), MySQL, PostgreSQL, Cypher, Unity Game Engine (as RL environment)</td>
+    <td>Python, scikit-learn, Pandas, NumPy, Polars, statsmodels, Gradient Boosting, MySQL, PostgreSQL, Cypher</td>
   </tr>
   <tr>
     <td valign="top"><strong>Systems & Deployment</strong></td>
