@@ -51,11 +51,11 @@ Codex for Open Source recipient for my OSS contributions to [nanoclaw](https://g
   </tr>
   <tr>
     <td valign="top"><strong>Systems & Deployment</strong></td>
-    <td>FastAPI, Node.js, AWS, MLflow, SQLAlchemy, GitHub Actions, Docker, Kubernetes, ONNX, PyTorch FSDP, Tmux</td>
+    <td>FastAPI, Node.js, AWS, MLflow, SQLAlchemy, GitHub Actions, Docker, Kubernetes, ONNX, Slurm, PyTorch FSDP, Tmux</td>
   </tr>
   <tr>
     <td valign="top"><strong>Retreival, Agents &amp; Serving</strong></td>
-    <td>FAISS, Neo4j, LangGraph, OpenAI SDK, Claude Agent SDK, PydanticAI, Firecrawl, vLLM, KubeRay</td>
+    <td>FAISS, Neo4j, LangGraph, OpenAI SDK, Claude Agent SDK, PydanticAI, vLLM, KubeRay</td>
   </tr>
   <tr>
     <td valign="top"><strong>Languages</strong></td>
