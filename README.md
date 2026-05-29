@@ -70,5 +70,5 @@ Codex for Open Source recipient for my OSS contributions to [nanoclaw](https://g
 **Open to interesting collaborations**
 
 
-Reach out to me to discuss Math, AI and Software Development akshankrithick305@gmail.com
+Reach out to me to discuss Math, Neural Networks and Software Development akshankrithick305@gmail.com
 
