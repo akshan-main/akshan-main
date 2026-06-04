@@ -74,4 +74,7 @@ Reach out to me to discuss Math, Neural Networks and Software Development akshan
 
 # Miscellaneous
 
-Secured 172 in LSAT (best assessment for logical thinking skills and argumentative reasoning), 323 in GRE, ~1300 elo on chess.com, Dual-N-Back best level: 7 
+- Secured 172 in LSAT (best assessment for logical thinking skills and argumentative reasoning)
+- 323 in GRE
+- ~1300 elo on chess.com
+- Dual-N-Back best level: 7 
