@@ -77,4 +77,5 @@ Reach out to me to discuss Math, Neural Networks and Software Development akshan
 - Secured 172 in LSAT (best assessment for logical thinking skills and argumentative reasoning)
 - 323 in GRE
 - ~1300 elo on chess.com
-- Dual-N-Back best level: 7 
+- Dual-N-Back best level: 7
+- Monkeytype: ~90 WPM with ~98% accuracy
