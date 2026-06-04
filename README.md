@@ -72,3 +72,6 @@ Codex for Open Source recipient for my OSS contributions to [nanoclaw](https://g
 
 Reach out to me to discuss Math, Neural Networks and Software Development akshankrithick305@gmail.com
 
+# Miscellaneous
+
+Secured 172 in LSAT, 225 in GRE
