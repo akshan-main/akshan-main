@@ -26,7 +26,7 @@ See pinned for more projects
 
 # OSS work:
 
-[open-source-contributions](https://github.com/akshan-main/open-source-contributions): selected fixes and reviews merged or adopted across external OSS projects including Huggingface, MCP among many others
+[open-source-contributions](https://github.com/akshan-main/open-source-contributions): selected fixes and reviews merged or adopted across external OSS projects including Huggingface (97th percentile of contributors to (diffusers)[https://github.com/huggingface/diffusers], MCP among many others
 
 # Recognition
 
