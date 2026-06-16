@@ -72,7 +72,7 @@ Codex for Open Source recipient for my OSS contributions to [nanoclaw](https://g
 
 Reach out to me to discuss Math, Neural Networks and Software Development akshankrithick305@gmail.com
 
-If you're interested in open source AI or decentralized AI on the blockchain then we should definitely connect!
+If you're interested in open source AI or decentralized AI then we should definitely connect!
 
 # Miscellaneous
 
