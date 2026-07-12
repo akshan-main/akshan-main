@@ -74,7 +74,7 @@ Reach out to me to discuss Math, Neural Networks and Software Development akshan
 
 If you're interested in open source AI or decentralized AI then we should definitely connect!
 
-# Miscellaneous
+# Miscellaneous (if you even care)
 
 - Secured 172 in LSAT (best assessment for logical thinking skills and argumentative reasoning) {2024}
 - 323 in GRE (assessment for academic readiness for graduate level studies) {2024}
