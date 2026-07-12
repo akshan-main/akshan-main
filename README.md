@@ -47,7 +47,7 @@ Codex for Open Source recipient for my OSS contributions to [nanoclaw](https://g
   </tr>
   <tr>
     <td valign="top"><strong>ML &amp; Data</strong></td>
-    <td>Python, scikit-learn, Pandas, NumPy, Polars, statsmodels, Gradient Boosting, MySQL, PostgreSQL, Cypher</td>
+    <td>Python, scikit-learn, Pandas, NumPy, Polars, statsmodels, Gradient Boosting, Dimensionality Reduction, MySQL, PostgreSQL, Cypher</td>
   </tr>
   <tr>
     <td valign="top"><strong>Systems & Deployment</strong></td>
