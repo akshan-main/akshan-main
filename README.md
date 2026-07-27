@@ -78,7 +78,7 @@ If you're willing to help me gain access to some H100 instances, consider [spons
 
 
 
-# Miscellaneous (if you even care)
+# Miscellaneous (for those who care)
 
 - Secured 172 in LSAT (best assessment for logical thinking skills and argumentative reasoning) {2024}
 - 323 in GRE (assessment for academic readiness for graduate level studies) {2024}
