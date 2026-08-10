@@ -1,4 +1,4 @@
-Please reach out if you're looking for an
+Please reach out if you're looking for
 - AI Engineer
 - ML Engineer
 - Software Engineer in AI/ML
