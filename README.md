@@ -2,6 +2,7 @@ Please reach out if you're looking for an
 - AI Engineer
 - ML Engineer
 - Software Engineer in AI/ML
+<br>
 <!--
 If you want terminal-like customized images like below for your readme <a href="https://terminal-look-byakshan.vercel.app/"> terminal-look </a>
 
