@@ -1,4 +1,4 @@
-Please reach out if you're looking for an AI Engineer or ML Engineer.
+Please reach out if you're looking for an AI Engineer, ML Engineer, or a software engineer in AI/ML
 <!--
 If you want terminal-like customized images like below for your readme <a href="https://terminal-look-byakshan.vercel.app/"> terminal-look </a>
 
