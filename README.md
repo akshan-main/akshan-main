@@ -81,13 +81,3 @@ Reach out to me to discuss Math, Neural Networks and Software Development akshan
 If you're interested in open source AI or decentralized AI, then we should definitely connect!
 
 If you're willing to help me gain access to some H100 instances, consider [sponsoring](https://github.com/sponsors/akshan-main)
-
-
-
-# Miscellaneous (for those who care)
-
-- Secured 172 in LSAT (best assessment for logical thinking skills and argumentative reasoning) {2024}
-- 323 in GRE (assessment for academic readiness for graduate level studies) {2024}
-- ~1300 elo on chess.com in rapid mode
-- Dual-N-Back best level: 7
-- Monkeytype: ~90 WPM with ~98% accuracy
